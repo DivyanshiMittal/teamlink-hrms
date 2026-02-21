@@ -1,3 +1,5 @@
+import "./globals.css";
+
 import type { Metadata } from "next";
 // Removed Google Fonts due to network fetching errors.
 // Using standard Tailwind sans/mono fonts.
